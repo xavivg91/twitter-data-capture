@@ -9,10 +9,10 @@ authURL <- "https://api.twitter.com/oauth/authorize"
 
 options(httr_oauth_cache=T)
 
-consumer_key <- "	ilXdbCWD7q5ZVU0N2tWSDWh7E"
-consumer_secret <- "NvMe8rIQcTNwN9HNqEnxRbLlNZ05kc0vkNxvcroQIowMaAKgc5"
-access_token <- "285779081-jmIRM488C3NgFSp3TAr60OAWaEseE4JG9NJDwCQJ"
-access_secret <- "ND3E24NmCn17PsGcVobjkn8S7IIlCKQRddCpmZbgxYxjo"
+consumer_key <- "INTRODUCE YOUR CONSUMER KEY"
+consumer_secret <- "INTRODUCE YOUR CONSUMER SECRET"
+access_token <- "INTRODUCE YOUR ACCESS TOKEN"
+access_secret <- "INTRODUCE YOUR ACCESS SECRET"
 
 # twitteR authentication
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
