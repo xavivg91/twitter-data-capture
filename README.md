@@ -1,4 +1,4 @@
-# Twitter data capture <img src='twitter-logo.jpg' align="right" height="75" /></a>
+# Twitter data capture <img src='twitter-logo.jpg' align="right" height="60" /></a>
 
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
