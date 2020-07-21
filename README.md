@@ -1,4 +1,4 @@
-# Twitter data capture
+# Twitter data capture <img src='twitter-logo.jpg' align="right" height="75" /></a>
 
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -8,10 +8,6 @@
 [![GitHub Xavi](https://img.shields.io/github/followers/xavivg91?label=follow&style=social)](https://github.com/xavivg91/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Xavier91vg.svg?style=social)](https://twitter.com/Xavier91vg)
 <!-- badges: end -->
-
-<p align="center">
-<img src='twitter-logo.jpg' height="100" /></a>
-</p>
 
 In this repository you can check out some examples of how to capture Twitter data using the REST and Streaming API: 
 
