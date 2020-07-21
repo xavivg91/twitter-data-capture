@@ -9,6 +9,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Xavier91vg.svg?style=social)](https://twitter.com/Xavier91vg)
 <!-- badges: end -->
 
+<p align="center">
+<img src='twitter-logo.jpg' height="100" /></a>
+</p>
+
 In this repository you can check out some examples of how to capture Twitter data using the REST and Streaming API: 
 
 * **REST API**. Return any authorized tweets which match the search criteria. This search API searches against a sampling of recent Tweets published in the past 7 days. You can use the [`searchTwitter()`](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9/topics/searchTwitter) and [`search_tweets()`](https://www.rdocumentation.org/packages/smappR/versions/0.5/topics/searchTweets) functions from the [twitterR](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9) and [rtweet](https://rtweet.info/) packages, respectively.
