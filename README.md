@@ -3,6 +3,7 @@
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/xavivg91/twitter-data-capture/issues/new)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/xavivg91/twitter-data-capture)
 [![HitCount](http://hits.dwyl.com/xavivg91/twitter-data-capture.svg)](http://hits.dwyl.com/xavivg91/twitter-data-capture)
 
 [![GitHub Xavi](https://img.shields.io/github/followers/xavivg91?label=follow&style=social)](https://github.com/xavivg91/)
