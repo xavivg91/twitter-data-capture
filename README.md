@@ -7,8 +7,7 @@
 <!-- [![HitCount](http://hits.dwyl.com/xavivg91/twitter-data-capture.svg)](http://hits.dwyl.com/xavivg91/twitter-data-capture) -->
 
 [![GitHub Xavi](https://img.shields.io/github/followers/xavivg91?label=follow&style=social)](https://github.com/xavivg91/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Xavier91vg.svg?style=social)](https://twitter.com/Xavier91vg)
-<!-- badges: end -->
+[![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/Xavier91vg.svg?style=social&label=Follow%20%40Xavier91vg)](https://twitter.com/Xavier91vg)<!-- badges: end -->
 
 In this repository you can check out some examples of how to capture Twitter data using the REST and Streaming API: 
 
